@@ -1,0 +1,9 @@
+body{
+    background-image: url(aboutme/background.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    margin: 0;
+    background-attachment: fixed;
+    max-width: 100%;
+}
